@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UIRelatedTextures>
+	<Items>
+
+		<Item>
+			<name>arrow1</name>
+			<textureItem href="arrow1.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow2</name>
+			<textureItem href="arrow2.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow3</name>
+			<textureItem href="arrow3.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow4</name>
+			<textureItem href="arrow4.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow5</name>
+			<textureItem href="arrow5.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow6</name>
+			<textureItem href="arrow6.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow7</name>
+			<textureItem href="arrow7.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow8</name>
+			<textureItem href="arrow8.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow9</name>
+			<textureItem href="arrow9.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow10</name>
+			<textureItem href="arrow10.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow11</name>
+			<textureItem href="arrow11.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow12</name>
+			<textureItem href="arrow12.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>arrow13</name>
+			<textureItem href="arrow13.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>		
+	</Items>
+</UIRelatedTextures>

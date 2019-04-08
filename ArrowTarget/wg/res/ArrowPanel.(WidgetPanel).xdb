@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>ArrowPanel</Name>
+	<Children>
+	</Children>
+	<Priority>10</Priority>
+	<BackLayer href="empty.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>160</Size>
+		</X>
+		<Y>
+            		<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>260</Size>
+		</Y>
+	</Placement>
+		<TransparentInput>true</TransparentInput>
+		<PickChildrenOnly>true</PickChildrenOnly>
+		<Visible>false</Visible>
+</WidgetPanel>

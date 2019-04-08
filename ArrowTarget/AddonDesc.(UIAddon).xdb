@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UIAddon>
+  <AutoStart>true</AutoStart>
+  <Forms>
+    <Item>
+      <Id>Main</Id>
+      <Form href="wg/MainForm.(WidgetForm).xdb#xpointer(/WidgetForm)" />
+    </Item>
+  </Forms>
+  <MainFormId>Main</MainFormId>
+  <Name>ArrowTarget</Name>
+  <localizedNameFileRef href="desc/prev0" />
+  <localizedDescFileRef href="desc/prev1" />
+  <ScriptFileRefs>
+    <Item href="/Mods/SampleCommon/SampleAddonBase.lua" />
+    <Item href="script/ScriptLIB.lua" />
+    <Item href="script/LibDnD.lua" />
+    <Item href="script/mainscript.lua" />
+  </ScriptFileRefs>
+  <author>Jed(Zeon)</author>
+  <revision>1</revision>
+  <texts href="" />
+  <textures href="wg/res/Icons.(UIRelatedTextures).xdb#xpointer(/UIRelatedTextures)" />
+  <update>2013-12-18 00:12:00</update>
+  <visObjects href="" />
+  <www></www>
+</UIAddon>

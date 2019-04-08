@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>ConfigPanelTarget</Name>
+	<Children>
+		<Item href="res/ArrowPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" /> 
+	</Children>
+	<Priority>1</Priority>
+	<BackLayer href="res/fon.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>400</Size>
+			<Pos>400</Pos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>700</Size>
+			<Pos>150</Pos>
+		</Y>
+	</Placement>
+	<Visible>false</Visible>
+</WidgetPanel>

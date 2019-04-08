@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT5</type>
+	<width>256</width>
+	<height>512</height>
+	<realWidth>160</realWidth>
+	<realHeight>260</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>17925</binaryFileSize>
+	<binaryFile href="arrow1.(UITexture).bin" />
+	<binaryFileSize2>0</binaryFileSize2>
+	<binaryFile2 href="" />
+	<sourceFile href="arrow1.tga" />
+	<sourceFileCRC>-196404549</sourceFileCRC>
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<atlasPart>true</atlasPart>
+	<pool>UNDEFINED</pool>
+</UITexture>
